@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.html",
   "scripts": {
-    "start":"parcel base-js/index.html",
-    "build":"parcel build base-js/index.html",
+    "start":"parcel base/index.html",
+    "build":"parcel build base/index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Sebastian Terrazas",
